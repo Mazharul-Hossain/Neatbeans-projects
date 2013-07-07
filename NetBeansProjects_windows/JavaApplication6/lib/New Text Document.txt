@@ -1,0 +1,4 @@
+freetts-1.2.2-bin.zip
+freetts-1.2.zip
+javax.speech.zip
+I:\BUET_Study\Mazhar\lib
